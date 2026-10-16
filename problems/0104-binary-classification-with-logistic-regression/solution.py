@@ -23,3 +23,10 @@ def predict_logistic(
         predictions.append(prediction)
 
     return np.array(predictions)
+
+
+# import numpy as np
+
+# def predict_logistic(X, weights, bias):
+#     z = X @ weights + bias
+#     return (z >= 0).astype(int)
