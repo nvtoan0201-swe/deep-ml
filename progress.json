@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:45:31.800Z",
+  "generated_at": "2026-10-30T12:55:39.443Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "problems/0374-character-level-tokenizer-stoi-itos-bos",
       "first_solved_at": "2026-10-30T12:45:29.736Z",
       "last_pushed_at": "2026-10-30T12:45:29.736Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:942": {
+      "kind": "problem",
+      "id": "942",
+      "title": "Simple Word Tokenizer Encode and Decode",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/942",
+      "path": "problems/0942-simple-word-tokenizer-encode-and-decode",
+      "first_solved_at": "2026-10-30T12:55:38.780Z",
+      "last_pushed_at": "2026-10-30T12:55:38.780Z",
       "language": "python",
       "lines": 26
     }
